@@ -1,2 +1,3 @@
 # soumya.demo
-first git
+This is my first git repository.
+Soumyadeep Sahoo
