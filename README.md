@@ -1,4 +1,4 @@
 # soumya.demo
 This is my first git repository.
 <br>
-Soumyadeep Sahoo
+Soumyadeep Sahoo (RIKI)
